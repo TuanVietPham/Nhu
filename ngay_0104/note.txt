@@ -1,0 +1,3 @@
+* Ngày nay học js (video 123)
+Function: 
+Vì sao dùng Const, let,....
